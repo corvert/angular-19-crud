@@ -20,6 +20,27 @@
       "category": "Truck",
       "amount": 20.0,
       "date": "03-10-2023"
+    },
+      {
+      "id": 4,
+      "title": "Dating 1",
+      "category": "Dating",
+      "amount": 200.0,
+      "date": "03-10-2024"
+    },
+      {
+      "id": 5,
+      "title": "Travel",
+      "category": "travel",
+      "amount": 50.0,
+      "date": "03-10-2025"
+    },
+      {
+      "id": 6,
+      "title": "Travel2",
+      "category": "travel2",
+      "amount": 250.0,
+      "date": "03-10-2024"
     }
   ]
 }

@@ -11,7 +11,7 @@ export class ExpanseService {
 
   constructor(private http: HttpClient) { }
 
-  fetchExpenses() {
+  getExpenses() {
     this.http.get<Expense[]>('http://localhost:3000/expenses')
       .subscribe(expenses => {
         this.expemseSignal.set(expenses);
