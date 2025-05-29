@@ -1,0 +1,25 @@
+{
+  "expenses": [
+    {
+      "id": 1,
+      "title": "Groceries",
+      "category": "Food",
+      "amount": 50.0,
+      "date": "01-10-2023"
+    },
+    {
+      "id": 2,
+      "title": "Utilities",
+      "category": "Auto",
+      "amount": 75.0,
+      "date": "02-10-2023"
+    },
+    {
+      "id": 3,
+      "title": "Transport",
+      "category": "Truck",
+      "amount": 20.0,
+      "date": "03-10-2023"
+    }
+  ]
+}
